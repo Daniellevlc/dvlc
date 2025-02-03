@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+   
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <style>
+.carousel-item > img {
+
+    height: 50rem;
+}
+
+.carousel {
+    margin-bottom: 4rem;
+}
+
+.featurette-divider {
+    margin: 5rem 0;
+}
+
+    </style>
+
+    <title>Melanie Martinez</title>
+  </head>
+  <body>
+
+    
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">Menu</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Início <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Musicas</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Dropdown
+              </a>
+            
+        
+              </div>
+            </li>
+          </ul>
+          <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Buscar" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Buscar</button>
+          </form>
+        </div>
+      </nav>
+
+
+      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img class="d-block w-100" src="c:\Users\Home\Desktop\trabalho\mmart.jpg" alt="First slide">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="c:\Users\Home\Desktop\trabalho\mm1.jpeg" alt="Second slide">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="c:\Users\Home\Desktop\H\melanie martinez.jpeg" alt="Third slide">
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Anterior</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Próximo</span>
+        </a>
+      </div>
+
+      <div class="container marketing">
+
+        
+        <div class="row">
+          <div class="col-lg-4">
+            <img class="rounded-circle" src="c:\Users\Home\Desktop\trabalho\crybaby.jpg" alt="Generic placeholder image" width="140" height="140">
+            <h2>Cry baby</h2>
+            <p>Cry Baby é o álbum de estreia da cantora e compositora Melanie Martinez, lançado em 14 de agosto de 2015. O álbum é conceitual e gira em torno da personagem fictícia Cry Baby.</p>
+           
+          </div>
+          <div class="col-lg-4">
+            <img class="rounded-circle" src="c:\Users\Home\Desktop\trabalho\Melanie_Martinez_-_K-12.png" alt="Generic placeholder image" width="140" height="140">
+            <h2>K-12</h2>
+            <p>K-12 é o segundo álbum de estúdio de Melanie Martinez, lançado em 6 de setembro de 2019, acompanhado por um filme musical de mesmo nome. O álbum continua a história da personagem Cry Baby, agora em uma escola.</p>
+
+          </div>
+          <div class="col-lg-4">
+            <img class="rounded-circle" src="c:\Users\Home\Desktop\trabalho\portals.jpeg" alt="Generic placeholder image" width="140" height="140">
+            <h2>Portals</h2>
+            <p>PORTALS é o terceiro álbum de estúdio de Melanie Martinez, lançado em 31 de março de 2023. Com a morte da personagem cry baby, álbum marca uma nova era para a artista, apresentando um conceito mais surreal e místico, explorando temas como reencarnação, vida após a morte e transformação.</p>
+          </div>
+        </div>
+
+        
+        <hr class="featurette-divider">
+
+        <div class="row featurette">
+          <div class="col-md-7">
+            <h2 class="featurette-heading">
+                Biografia<span class="text-muted"> Melanie Adele Martinez</span></h2>
+            <p class="lead">Melanie Adele Martinez é uma cantora, compositora, atriz e diretora norte americana, nascida em 28 de abril de 1995, em Astoria, Nova York. Ela ganhou notoriedade em 2012 ao participar do programa The Voice, onde chamou atenção por sua voz distinta e estilo alternativo. Após o reality show, Melanie seguiu uma carreira independente.</p>
+          </div>
+          <div class="col-md-5">
+            <img class="featurette-image img-fluid mx-auto" src="c:\Users\Home\Downloads\Mel💖🎀.jpeg" alt="Generic placeholder image">
+          </div>
+        </div>
+
+        <hr class="featurette-divider">
+
+        <div class="row featurette">
+          <div class="col-md-7 order-md-2">
+            <h2 class="featurette-heading">Significado das músicas <span class="text-muted">As críticas sociais abordadas</span></h2>
+            <p class="lead">Melanie Martinez aborda temas como traumas infantis, relacionamentos tóxicos, distúrbios alimentares, autoaceitação, saúde mental, feminismo, padrões de beleza, controle social, espiritualidade e renascimento.</p>
+          </div>
+          <div class="col-md-5 order-md-1">
+            <img class="featurette-image img-fluid mx-auto" src="c:\Users\Home\Downloads\💗 — rare melanie martinez pictures_3.jpeg" alt="Generic placeholder image">
+          </div>
+        </div>
+
+        <hr class="featurette-divider">
+
+        <div class="row featurette">
+          <div class="col-md-7">
+            <h2 class="featurette-heading">Outras obras da artista<span class="text-muted">EPs, versões deluxe e etc</span></h2>
+            <p class="lead">Dollhouse (2014), Cry Baby’s Extra Clutter (2016), After School (2020), Gingerbread Man (2015) e Copy Cat (2020).</p>
+          </div>
+          <div class="col-md-5">
+            <img class="featurette-image img-fluid mx-auto" src="c:\Users\Home\Downloads\e2da2aa6-8693-4507-ac8e-13a0f7bafa58.jpeg" alt="Generic placeholder image">
+          </div>
+        </div>
+
+        <hr class="featurette-divider">
+
+        
+      </div>
+
+
+     
+     <footer class="container">
+        <p class="float-right"><a href="#">Voltar para o início</a></p>
+        <p>IFRN JC - 2025. · <a href="#">PRIVACIDADE</a> · <a href="#">TERMOS DE USO</a></p>
+      </footer>
+    </main>
+
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  </body>
